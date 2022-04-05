@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Study\Cs\btstruct\btstruct\bin\Debug\btstruct.exe.config
+C:\Users\Admin\Desktop\Study\Cs\btstruct\btstruct\bin\Debug\btstruct.exe
+C:\Users\Admin\Desktop\Study\Cs\btstruct\btstruct\bin\Debug\btstruct.pdb
+C:\Users\Admin\Desktop\Study\Cs\btstruct\btstruct\obj\Debug\btstruct.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Study\Cs\btstruct\btstruct\obj\Debug\btstruct.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Study\Cs\btstruct\btstruct\obj\Debug\btstruct.exe
+C:\Users\Admin\Desktop\Study\Cs\btstruct\btstruct\obj\Debug\btstruct.pdb
